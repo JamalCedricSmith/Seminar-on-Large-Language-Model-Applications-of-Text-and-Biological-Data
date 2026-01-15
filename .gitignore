@@ -1,0 +1,13 @@
+# Data files
+*.fa
+*.fasta
+*.txt
+*.gz
+
+# Large / generated files
+*.log
+*.tmp
+*.pyc
+
+# macOS
+.DS_Store
